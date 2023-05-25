@@ -16,11 +16,12 @@
 
 ### Данные "до"
 
-![merchendisers](https://github.com/ankhanhi/mars-analytics-intership/blob/main/task_1_VLOOKUP_function/media/initial_auditors.png)
-Ответы менчердайзеров
+![merchendisers](https://github.com/ankhanhi/mars-analytics-intership/blob/main/task_1_VLOOKUP_function/media/initial_merchandisers.png)
+Ответы мерчандайзеров
 
 ![before](https://github.com/ankhanhi/mars-analytics-intership/blob/main/task_1_VLOOKUP_function/media/initial_auditors.png)
 Ответы аудиторов
+
 ### Данные "после"
 
 ![after](https://github.com/ankhanhi/mars-analytics-intership/blob/main/task_1_VLOOKUP_function/media/result_data.png)
