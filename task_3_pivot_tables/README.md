@@ -22,4 +22,4 @@
 
 ### Результат
 
-![result](https://github.com/ankhanhi/mars-analytics-intership/task_3_pivot_tables/media/solution.png)
+![result](https://github.com/ankhanhi/mars-analytics-intership/blob/main/task_3_pivot_tables/media/solution.png)
