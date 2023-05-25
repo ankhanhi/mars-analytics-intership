@@ -10,4 +10,4 @@
 
 ### Результат
 
-![result](https://github.com/ankhanhi/mars-analytics-intership/task_2_IF_function_conditional_formatting/media/solution.png)
+![result](https://github.com/ankhanhi/mars-analytics-intership/blob/main/task_2_IF_function_conditional_formatting/media/solution.png)
